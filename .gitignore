@@ -1,0 +1,48 @@
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.log
+*.nav
+*.out
+*.snm
+*.run.xml
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.vrb
+*.xdv
+
+# Editor backup/swap files
+*~
+*.swp
+*.swo
+*.bak
+
+# PDF and other output files (optional, if you don't want to track built PDFs)
+*.pdf
+*.dvi
+*.ps
+
+# Build directories (e.g. if using latexmk or similar tools)
+_build/
+build/
+output/
+
+# TeXShop and TeXworks specific
+*.texpadtmp
+*.pdfsync
+
+# macOS specific
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints
