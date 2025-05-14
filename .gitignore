@@ -24,8 +24,7 @@
 *.swo
 *.bak
 
-# PDF and other output files (optional, if you don't want to track built PDFs)
-*.pdf
+# Other output files (optional, if you don't want to track built PDFs)
 *.dvi
 *.ps
 
